@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/../MemberSMS/src/main/java/com/ornate/sms/models/MemberModels.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MemberSMS/src/main/java/com/ornate/sms/models/Role.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MemberSMS/src/main/java/com/ornate/sms/models/UserModels.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MemberSMS/src/main/java/com/ornate/sms/services/MemberService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/MainClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/registration-login-spring-boot-security-thymeleaf-hibernate-master/src/main/java/net/javaguides/springboot/config/SecurityConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/registration-login-spring-boot-security-thymeleaf-hibernate-master/src/main/java/net/javaguides/springboot/model/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/registration-login-spring-boot-security-thymeleaf-hibernate-master/src/main/java/net/javaguides/springboot/service/UserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/registration-login-spring-boot-security-thymeleaf-hibernate-master/src/main/java/net/javaguides/springboot/web/MainController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/registration-login-spring-boot-security-thymeleaf-hibernate-master/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/registration-login-spring-boot-security-thymeleaf-hibernate-master/src/main/resources/templates/views/loginpage.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/smsScheduler/src/main/java/net/javaguides/springboot/web/MainController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/smsScheduler/src/main/java/net/javaguides/springboot/web/UserRegistrationController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/smsScheduler/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/smsScheduler/src/main/resources/templates/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
